@@ -1,4 +1,4 @@
-# Playground
+# Crimson Octogon
 
 A place to play with `git`.
 
